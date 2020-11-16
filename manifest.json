@@ -9,5 +9,8 @@
     "default_icon": "icon2.png",
     "default_popup": "popup.html"
   },
-  "permissions": ["activeTab"]
+  "permissions": [
+                "activeTab",
+                "gcm"
+                 ]
 }
